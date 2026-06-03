@@ -79,8 +79,8 @@ Based in Latin America, actively looking for opportunities in **Spain, Portugal,
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ascrho&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascrho&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ascrho&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascrho&layout=compact" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -88,3 +88,4 @@ Based in Latin America, actively looking for opportunities in **Spain, Portugal,
 <p align="center">
   <i>Open to Data Engineering opportunities in Europe (Spain/Portugal)</i>
 </p>
+
