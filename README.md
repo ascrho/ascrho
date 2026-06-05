@@ -1,5 +1,5 @@
 <h1 align="center">Marcos Quintero</h1>
-<h3 align="center">Data Engineer | Data Governance | ETL/ELT | Cloud | AI-Ready Infrastructure</h3>
+<h3 align="center">Data Engineer | Data Governance | Data Quality | ETL/ELT | SQL | Python | Financial Services | AI-Ready Infrastructure</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcosquinterero-dataengineer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
